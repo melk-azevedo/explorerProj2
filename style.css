@@ -95,11 +95,13 @@ button {
     border-radius: 6px;
 
     cursor: pointer;
-
+    transition: all 0.3s;
 }
 
 button:hover {
     background: #388d6f;
+    padding: 19px 37px 19px;
+
 }
 
 footer {
